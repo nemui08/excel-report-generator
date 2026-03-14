@@ -15,6 +15,24 @@ A Python CLI tool that analyzes sales data from an Excel file and generates a su
 * Pandas
 * Excel
 
+## Project Structure
+
+```
+excel-report-generator
+│
+├── report.py
+├── sales.xlsx
+└── README.md
+```
+## Example Input
+
+| name | product | amount |
+|-----|-----|-----|
+| A | Laptop | 30000 |
+| B | Mouse | 500 |
+| A | Keyboard | 2000 |
+| C | Laptop | 30000 |
+
 ## Example Output
 
 ```
