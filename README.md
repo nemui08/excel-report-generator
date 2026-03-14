@@ -35,8 +35,12 @@ Mouse : 500
 
 Install dependencies
 
+```
 pip install pandas openpyxl
+```
 
 Run the script
 
+```
 python report.py
+```
